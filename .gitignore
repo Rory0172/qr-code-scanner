@@ -1,0 +1,10 @@
+/.bundle
+/log/*
+/tmp/*
+node_modules
+dist
+/platforms
+/plugins
+
+.idea
+introspectionQuery.json
